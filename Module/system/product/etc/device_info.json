@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 8+ Gen 1",
+    "battery": "6000 mAh",
+    "camera": "108MP+8MP+5MP",
+    "screen": "6.67″ AMOLED",
+    "resolution": "2400×1080"
+  },
+  "camera": {
+    "front_camera": "20MP",
+    "rear_camera": "108MP+8MP+5MP"
+  }
+}
